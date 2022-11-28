@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mohamed Idriss
+- 👋 Hello there!
 - 👀 I’m interested in web development especially frontend
-- 🌱 Currently, I’m learning React.js, and software engineering
+- 🌱 Currently, I’m learning WordPress, and PHP
 - 💞️ I’m looking to collaborate on building clean, and minimal projects
 - 📫 [My portfolio and how to reach me](https://idrissos.web.app/)
 
