@@ -1,6 +1,6 @@
 - 👋 Hello there!!
 - 👀 I’m interested in building web apps.
-- 🌱 Currently, I’m learning Python!
+- 🌱 Currently, I’m learning Nodejs & mongoDB!
 - 💞️ I’m looking to collaborate on building clean, and minimal projects.
 - 📫 [My portfolio and how to reach me](https://idrissos.web.app/)!
 
