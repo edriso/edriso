@@ -1,7 +1,7 @@
 - 👋 Hello there!!
-- 👀 I’m interested in building web apps.
-- 🌱 Currently, I’m learning Nodejs & mongoDB!
-- 💞️ I’m looking to collaborate on building clean, and minimal projects.
+- 🌱 I’m a junior MERN stack developer!
+- 👀 Interested in building useful web apps.
+- 💞️ And, I’m looking to collaborate on building clean, and minimal projects.
 - 📫 [My frontend projects and how to reach me](https://idrissos.web.app/)!
 
 <!---
