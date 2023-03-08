@@ -1,5 +1,5 @@
 - 👋 Hello there!!
-- 🌱 I’m a junior MERN stack developer!
+- 🌱 I’m a Node.js developer!
 - 👀 Interested in building useful web apps.
 - 💞️ And, I’m looking to collaborate on building clean, and minimal projects.
 - 📫 [My frontend projects and how to reach me](https://idrissos.web.app/)!
