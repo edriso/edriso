@@ -1,10 +1,7 @@
-- 👋 Hello there!!
-- 🌱 I’m a MERN stack developer.
-- 👀 Interested in building useful web apps.
-- 🐱‍💻 And, I’m looking to collaborate on building clean, and minimal projects.
+<h3 align="center">Hello, world! 👋</h3>
 
-<!---
-- 📫 [My frontend projects](https://idrissos.web.app/)!
-edriso/edriso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🐱‍💻 And, I’m a MERN stack developer Interested in building clean, and minimal projects
+- 🌱 And, I’m currently learning **React.js / Next.js**
+- 📫 How to reach me **edriso.dev@gmail.com**
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edriso&" alt="edriso" /></p>
