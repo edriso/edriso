@@ -1,6 +1,6 @@
 <h3 align="center">Hello, world! 👋</h3>
 
-- 🐱‍💻 And, I’m a MERN stack developer Interested in building clean, and minimal projects
+- 🐱‍💻 I’m a MERN stack developer Interested in building clean, and minimal projects
 - 🌱 And, I’m currently learning **React.js / Next.js**
 - 📫 How to reach me **edriso.dev@gmail.com**
 
