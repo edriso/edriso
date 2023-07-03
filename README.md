@@ -6,4 +6,4 @@
 - ✨ Portfolio **[https://edriso-dev.web.app](https://edriso-dev.web.app)**
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edriso&" alt="github streak" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=edriso" alt="github streak" /></p>
