@@ -11,8 +11,8 @@
 
 - 🐱‍💻 I’m a web developer who's passionate about crafting digital experiences and bringing ideas to life on the web.
 - 🌱 Currently, building some web apps and honing my backend skills.
-- 🌊 Swimming enthusiast who finds calmness and tranquility underwater.
-- 🏕️ Nature is my resort; connecting with the natural world is where I find solace and inspiration.
+- 🏕️ Nature is my resort; finding solace and inspiration in the natural world created by The Greatest.
+- 🌊 Swimming enthusiast who discovers calmness and tranquility underwater.
 - 📫 Reach me at **edriso.dev@gmail.com**
 - ✨ Portfolio **[https://edriso-dev.web.app](https://edriso-dev.web.app)**
 
