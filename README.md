@@ -9,12 +9,13 @@
 
 <h3 align="left">:man_technologist: About Me</h3>
 
-- 🐱‍💻 I’m a web developer who's passionate about crafting digital experiences and bringing ideas to life on the web.
-- 🌱 Currently, building some web apps and honing my backend skills.
-- 🏕️ Nature is my resort; finding solace and inspiration in the natural world created by The Greatest.
-- 🌊 Swimming enthusiast who discovers calmness and tranquility underwater.
-- 📫 Reach me at **edriso.dev@gmail.com**
-- ✨ Portfolio **[https://edriso-dev.web.app](https://edriso-dev.web.app)**
+- 🥷🏾 I’m a web developer passionate about building dynamic web applications and bringing ideas on the web using JavaScript and/or PHP.
+- 🎾 I enjoy playing Padel and swimming to stay active and refreshed.
+- 🏕️ Nature, created by The Greatest, is where I find peace and inspiration.
+- 🌱 Currently honing my backend development skills.
+- 📫 You can reach me at **edriso.dev@gmail.com**
+- 📝 Explore my resume: **[https://edriso.github.io](https://edriso.github.io)**
+- ✨ Check out my portfolio: **[https://edriso.netlify.app](https://edriso.netlify.app)**
 
 ###
 
