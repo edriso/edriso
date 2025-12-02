@@ -12,7 +12,7 @@
 - 🥷🏾 I’m a web developer passionate about building dynamic web applications and bringing ideas on the web using JavaScript and/or PHP.
 - 🎾 I enjoy playing Padel and swimming to stay active and refreshed.
 - 🏕️ Nature, created by The Greatest, is where I find peace and inspiration.
-- 🌱 Currently honing my backend development skills.
+- 🌱 Currently honing my web development skills or building web apps.
 - 📫 You can reach me at **edriso.dev@gmail.com**
 - 📝 Explore my resume: **[https://edriso.github.io](https://edriso.github.io)**
 - ✨ Check out my portfolio: **[https://edriso.netlify.app](https://edriso.netlify.app)**
